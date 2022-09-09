@@ -1,0 +1,7 @@
+,machine_id,emissions,energy_consumption
+0,1,"0    0.000078
+Name: emissions, dtype: float64","0    0.000127
+Name: energy_consumed, dtype: float64"
+1,0,"0    9.594370e-07
+Name: emissions, dtype: float64","0    0.000007
+Name: energy_consumed, dtype: float64"
